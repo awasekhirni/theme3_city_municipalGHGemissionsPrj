@@ -1,3 +1,16 @@
 Green House Gas Emission Data 
 1.	USA - https://data.cdp.net/browse?category=Emissions
 2. vulcan dataset https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1741
+3.https://carbonn.org/
+4.https://www.tomtom.com/en_gb/traffic-index/
+5.https://katirg.github.io/GlobalCarbonCities/
+6.https://eccad.aeris-data.fr/
+7.https://tes.jpl.nasa.gov/data/
+8.https://www.degreedays.net/
+9.https://www.wunderground.com/
+10.http://www.globalcarbonatlas.org/global-carbon-cities
+11.https://asterweb.jpl.nasa.gov/
+12.https://esrl.noaa.gov/gmd/dv/data/
+13.https://www.eia.gov/
+14.https://www-calipso.larc.nasa.gov/
+15.https://www.opentopography.org/
