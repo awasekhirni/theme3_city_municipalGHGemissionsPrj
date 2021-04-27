@@ -39,6 +39,13 @@ https://library.carleton.ca/find/gis/lidar-data
 http://inventory.pku.edu.cn/download/download.html?Source=BC&Year=1960&Sector=transportation&OK=OK
 
 
+https://aeronet.gsfc.nasa.gov/cgi-bin/bamgomas_interactive
+https://mplnet.gsfc.nasa.gov/
+https://www.airnowtech.org/index.cfm
+https://www.airnow.gov/
+https://cimss.ssec.wisc.edu/satellite-blog/archives/category/air-quality
+https://alg.umbc.edu/usaq/
+http://cimss.ssec.wisc.edu/goes/misc/modis/wisconsin/terra_aod_rgb_fader.html
 
 https://www.emc.ncep.noaa.gov/mmb/aq/#aqfc
 https://www.emc.ncep.noaa.gov/mmb/aq/#global_forecasts
