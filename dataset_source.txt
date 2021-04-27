@@ -41,7 +41,14 @@ Lidar dataset
 https://library.carleton.ca/find/gis/lidar-data
 
 http://inventory.pku.edu.cn/download/download.html?Source=BC&Year=1960&Sector=transportation&OK=OK
-
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+https://datacatalog.worldbank.org/dataset/climate-change-data
+https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions
+https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TSUPE1
+https://climateknowledgeportal.worldbank.org/
+https://data.ny.gov/Energy-Environment/Climate-Change-Projections-and-Impacts-for-New-Yor/s7ew-7zev
+https://data.cnra.ca.gov/dataset/sgma-climate-change-resources
 
 https://aeronet.gsfc.nasa.gov/cgi-bin/bamgomas_interactive
 https://mplnet.gsfc.nasa.gov/
