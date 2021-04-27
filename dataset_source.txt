@@ -36,6 +36,8 @@ http://www.indiaenvironmentportal.org.in/search/?q=&selected_facets=im_content_t
 https://www.odiac.org/index.html
 
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1810
+http://www.gosat.nies.go.jp/en/
+https://db.cger.nies.go.jp/dataset/ODIAC/
 
  MODIS 
  https://modis.gsfc.nasa.gov/data/
